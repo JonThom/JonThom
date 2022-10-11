@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonThom
 - 👀 I’m using mathematics and knowledge graphs to map biological and socio-political networks and ills
 - 🌱 I’m currently learning mathematical genomics and signal processing
-- 💞️ I’m looking to collaborate on hypergraph applications (e.g. with [TypeDB](www.vaticle.com) )
+- 💞️ I’m looking to collaborate on hypergraph applications (e.g. with [TypeDB](https://vaticle.com/) )
 - 📫 Feel free to get in touch: jjt3f2188@gmail.com
 
 <!---
